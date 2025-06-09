@@ -8,5 +8,5 @@ The app allows users to search for and display current weather data for a specif
 - Built using the OpenWeather API to fetch real-time weather data.
 - Basic CSS for simple yet clean UI.
 
-Technologies Used
+#Technologies Used
 - HTML, CSS, JavaScript, React.js
